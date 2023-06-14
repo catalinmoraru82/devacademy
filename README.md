@@ -1,2 +1,2 @@
-# devacademy
-Dev academy course
+# DevacadEMy course
+Everymatrix dev course
